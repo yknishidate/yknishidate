@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Computer Graphics
 - 💻 [GitHub Gist](https://gist.github.com/yknishidate)
+- Current project: [Reactive](https://github.com/yknishidate/Reactive)
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yknishidate)](https://github.com/anuraghazra/github-readme-stats)
+-->
