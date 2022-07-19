@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning Computer Graphics
-- 💻 [GitHub Gist](https://gist.github.com/yknishidate)
+- 💻 Code snippets: [GitHub Gist](https://gist.github.com/yknishidate)
 - 🔭 Current project: [Reactive](https://github.com/yknishidate/Reactive)
 
 <!--
