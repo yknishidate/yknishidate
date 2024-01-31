@@ -1,25 +1,5 @@
-### Hi there 👋
+# Hi, I'm Yuki Nishidate 👋
 
-<!--
-**nishidate-yuki/nishidate-yuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-- 🌱 I’m currently learning Computer Graphics
-- 💻 Code snippets: [GitHub Gist](https://gist.github.com/yknishidate)
-- 🔭 Current project: [Reactive](https://github.com/yknishidate/Reactive)
-
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yknishidate)](https://github.com/anuraghazra/github-readme-stats)
--->
+- 🎓 Master's student at Keio University, majoring in Computer Science.
+- 💻 Focused on learning and researching Computer Graphics.
+- 🐦 Contact me at: [X@yknishidate](https://twitter.com/yknishidate)
